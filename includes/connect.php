@@ -1,5 +1,5 @@
 <?php
-	/**
+	/*
 		connect.php 作为数据库连接的公共文件
 	*/
 	$mysqli = new mysqli("localhost", "root", "root", "blog");
